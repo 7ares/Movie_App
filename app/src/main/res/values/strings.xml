@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="description">Movie Poster</string>
+    <string name="seaAllButton">See All</string>
+
+    <string name="ToastErrorMessage">No Network Connection</string>
+
+    <string name="error_message">No Internet Connection Found Check Your Connection And Try Again</string>
+    <string name="overViewMessage"> There is no plot summary for this movie </string>
+<!-- moviesActivity-->
+    <string name="FavoriteList_sender">FavoriteList</string>
+    <!-- selectedMovieActivity -->
+    <string name="count">Count</string>
+    <string name="SimilarList">similar movies</string>
+    <string name="DataBase_Sender">DataBase</string>
+    <!-- XML detail -->
+    <string name="add_to_favorite_list">Add To My Favorite List</string>
+    <string name="already_in_favorite_list">ADDED TO FAVORITE LIST</string>
+    <string name="reviews_title">Users Reviews</string>
+    <string name="similar_movie_title">Similar Movies</string>
+    <string name="movie_rate">Movie Rate</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="favorite_movie"> favorite movie </string>
+
+    <!-- detail activity -->
+    <string name="empty_review">There\'s no any reviews </string>
+    <string name="no_similarity">There\'s no any similar movies</string>
+    <string name="YouTubeLinke">https://www.youtube.com/watch?v=</string>
+</resources>

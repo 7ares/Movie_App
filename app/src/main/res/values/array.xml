@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_title">
+        <item>Trending</item>
+        <item>Coming Soon</item>
+        <item>In Theaters</item>
+        <item>Most Popular Movies</item>
+        <item>Top Rated Movies</item>
+        <item>Popular Genres</item>
+
+    </string-array>
+    <string-array name="sort_by_value">
+        <item></item>
+        <item>revenue.desc</item>
+        <item>popularity.desc</item>
+        <item>vote_count.desc</item>
+    </string-array>
+    <string-array name="sort_by_title">
+        <item>Sort By</item>
+        <item>Revenue</item>
+        <item>Popularity</item>
+        <item>Views</item>
+
+    </string-array>
+
+</resources>
